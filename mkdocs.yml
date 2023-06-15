@@ -1,0 +1,24 @@
+site_name: Welcome to Guns 'R' Us Toy Company
+theme:
+  name: material
+  logo: assets/womp.png
+  favicon: assets/womp.png
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.path
+    - navigation.top
+    - navigation.footer
+    
+extra:
+  generator: false
+
+nav:
+  - Welcome: 'index.md'
+  - Travel Guide: 'travel.md'
+  - Alliance Auth:
+    - GUNS: 'auth/guns.md'
+    - Sigma: 'auth/sigma.md'
+    - Imperium: 'auth/imperium.md' 
