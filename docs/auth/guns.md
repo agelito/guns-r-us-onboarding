@@ -1,5 +1,7 @@
 # Guns 'R' Us Toy Company Authentication
 
+Access [Guns 'R' Us Toy Company Auth](https://womp.aoifu.com/)
+
 You are probably already somewhat familiar with out corporation authentication page. It is what you used to submit the application to join. We use it for more than just recruitment though, it's also used to grant access to Discord and SIGs (Special Interest Groups) within the corporation.
 
 Here's a list of the various information and services on the authentication site:
