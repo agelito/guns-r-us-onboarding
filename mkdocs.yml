@@ -22,3 +22,4 @@ nav:
     - GUNS: 'auth/guns.md'
     - Sigma: 'auth/sigma.md'
     - Imperium: 'auth/imperium.md' 
+  - FAQ: 'faq.md'
